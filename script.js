@@ -18,7 +18,7 @@ let complexArray = [
       c: "c",
       d: "d"
     }
-  ]
+  ],
 	[
 	one: 1,
 	c: "c",
