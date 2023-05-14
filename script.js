@@ -19,4 +19,7 @@ let complexArray = [
       d: "d"
     }
   ]
+	[
+	abc=true;
+	]
 ];
