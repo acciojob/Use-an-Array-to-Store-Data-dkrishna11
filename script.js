@@ -20,6 +20,8 @@ let complexArray = [
     }
   ]
 	[
+	one: 1,
+	c: "c",
 	abc=true;
 	]
 ];
